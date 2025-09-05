@@ -1,3 +1,0 @@
-#hello world 
-#instead of writing this you can try this
-echo "Hello world"
